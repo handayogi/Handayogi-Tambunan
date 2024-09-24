@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi👋, its The One & Only your boys Handayogi Tambunan.</h1>
+<h1 align="center">Hi, its The One & Only your boys Handayogi Tambunan.<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
 <h3 align="center">Informatics Engineering Students: Finding a Way to Thrive Amidst Learning Confusion</h3>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW43cXNlZDQwN2JzeGx0cGk0YjYxNWdna3pyejJwcnoxemM5cHF5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Coding" align="right" width="400">
 
@@ -16,8 +16,15 @@
 #
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://instagram.com/yogiitmbnn_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogiitmbnn_" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/handayogitambunan/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/yogiitmbnn_" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;">
+  </a>
+  <a href="https://twitter.com/zzyvnxx" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;">
+  </a>
 </p>
 
 #
@@ -29,11 +36,9 @@
 <p align="center"><a href="https://ko-fi.com/iigoy"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="iigoy" /></a></p>
 
 #
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=handayogi&show_icons=true&locale=en&layout=compact" alt="handayogi" /></p>
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">GitHub Stats</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=handayogi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="handayogi" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=handayogi&show_icons=true&locale=en" alt="handayogi" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=handayogi&" alt="handayogi" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=handayogi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Handayogi's GitHub Stats"></p>
 
 <p align="center"><b>Sorry to you, I'm not good as your expectation. Hope I can grow with all these demands <3</b></p>
