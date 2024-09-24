@@ -29,6 +29,9 @@
   <a href="https://twitter.com/zzyvnxx" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;">
   </a>
+  <a href="https://youtube.com/@zyggz?si=2wBB5A3v1jLZrQaR" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style"margin-bottom: 5px;">
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -81,7 +84,7 @@
 
 ### 🎮 &nbsp;Games
 
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)&nbsp;
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199201428711/)&nbsp;
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)&nbsp;
 ![Battle.Net](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)&nbsp;
 ![Valorant](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)&nbsp;
