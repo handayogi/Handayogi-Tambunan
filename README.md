@@ -2,7 +2,7 @@
 <h1 align="center">Hi, its The One & Only your boys Handayogi Tambunan.<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
 <h3 align="center">Informatics Engineering Students: Finding a Way to Thrive Amidst Learning Confusion</h3>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW43cXNlZDQwN2JzeGx0cGk0YjYxNWdna3pyejJwcnoxemM5cHF5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Coding" align="right" width="280">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW43cXNlZDQwN2JzeGx0cGk0YjYxNWdna3pyejJwcnoxemM5cHF5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Coding" align="right" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=handayogi&label=Profile%20views&color=0e75b6&style=flat" alt="handayogi" /> </p>
 
