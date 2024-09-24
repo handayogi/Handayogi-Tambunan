@@ -20,16 +20,16 @@
 #
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/handayogitambunan/" target="blank">
+  <a href="https://www.linkedin.com/in/handayogitambunan/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="https://instagram.com/yogiitmbnn_" target="blank">
+  <a href="https://instagram.com/yogiitmbnn_" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;">
   </a>
-  <a href="https://twitter.com/zzyvnxx" target="blank">
+  <a href="https://twitter.com/zzyvnxx" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;">
   </a>
-  <a href="https://youtube.com/@zyggz?si=2wBB5A3v1jLZrQaR" target="blank">
+  <a href="https://youtube.com/@zyggz?si=2wBB5A3v1jLZrQaR" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style"margin-bottom: 5px;">
   </a>
 </p>
