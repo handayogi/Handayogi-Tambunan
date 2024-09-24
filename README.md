@@ -21,7 +21,7 @@
 ![Dev](http://ForTheBadge.com/images/badges/built-by-developers.svg)&nbsp;
 ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)&nbsp;
 
-<img width="40%" height="10" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="50%" height="10" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📫 &nbsp;Connect with me
 <p>
