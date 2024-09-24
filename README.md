@@ -16,14 +16,13 @@
 - ⚡ Fun fact **I'm OPTIMUS PRIME, OUGHUGH AGHAGH**
 
 </pre>
-  
+
+![Black Magic](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 ![Swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)&nbsp;
-![Dev](http://ForTheBadge.com/images/badges/built-by-developers.svg)&nbsp;
-![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)&nbsp;
 
-<img width="50%" height="10" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="55%" height="10" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📫 &nbsp;Connect with me
+### ✨ &nbsp;Connect with me
 <p>
   <a href="https://www.linkedin.com/in/handayogitambunan/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -80,6 +79,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)&nbsp;
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)&nbsp;
 [![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://anaconda.org/anaconda/conda)&nbsp;
+[![Virtual Box](https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)&nbsp;
 [![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.google.com/chrome/)&nbsp;
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/)&nbsp;
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com)&nbsp;
@@ -125,3 +125,12 @@
 
 ### ❤️ &nbsp;Support
 [![Sponsor](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/iigoy)&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
