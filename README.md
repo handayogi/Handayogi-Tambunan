@@ -7,14 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=handayogi&label=Profile%20views&color=0e75b6&style=flat" alt="handayogi" /> </p>
 
 <pre>
-- 🌱 I’m currently learning **All the things I like in Informatics**
-
-- 💬 Ask me about **Anything that I know, hehe..**
-
-- 📫 How to reach me **handayogitambunan@gmail.com**
-
-- ⚡ Fun fact **I'm OPTIMUS PRIME, OUGHUGH AGHAGH**
-
+<p>
+  🌱 I’m currently learning <b>All the things I like in Informatics</b><br>
+  💬 Ask me about <b>Anything that I know, hehe..</b><br>
+  📫 How to reach me <b>handayogitambunan@gmail.com</b><br>
+  ⚡ Fun fact <b>I'm OPTIMUS PRIME, OUGHUGH AGHAGH</b>
+</p>
 </pre>
 
 ![Black Magic](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
