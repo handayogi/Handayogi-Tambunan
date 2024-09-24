@@ -15,10 +15,10 @@
 </p>
 </pre>
 
-![Black Magic](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-![Swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)&nbsp;
+![Black Magic](https://forthebadge.com/images/badges/powered-by-black-magic.svg)&nbsp;
+![Swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)
 
-<img width="55%" height="10" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✨ &nbsp;Connect with me
 <p>
