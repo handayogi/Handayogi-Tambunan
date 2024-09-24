@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Attention Please !! Hi 👋, I'm Handayogi Tambunan</h1>
+<h1 align="center">Hi👋, its The One & Only your boys Handayogi Tambunan.</h1>
 <h3 align="center">Informatics Engineering Students: Finding a Way to Thrive Amidst Learning Confusion</h3>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW43cXNlZDQwN2JzeGx0cGk0YjYxNWdna3pyejJwcnoxemM5cHF5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Coding" align="right" width="400">
 
@@ -35,3 +35,5 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=handayogi&show_icons=true&locale=en" alt="handayogi" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=handayogi&" alt="handayogi" /></p>
+
+<p align="center"><b>Sorry to you, I'm not good as your expectation. Hope I can grow with all these demands <3</b></p>
