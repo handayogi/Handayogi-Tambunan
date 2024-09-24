@@ -29,6 +29,9 @@
   <a href="https://twitter.com/zzyvnxx" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;">
   </a>
+  <a href="https://www.facebook.com/handayogi.tambunan" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=facebook style"margin-bottom: 5px;">
+  </a>
   <a href="https://youtube.com/@zyggz?si=2wBB5A3v1jLZrQaR" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style"margin-bottom: 5px;">
   </a>
