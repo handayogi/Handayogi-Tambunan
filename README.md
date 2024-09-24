@@ -1,10 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi, its The One & Only your boys Handayogi Tambunan.<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
 <h3 align="center">Informatics Engineering Students: Finding a Way to Thrive Amidst Learning Confusion</h3>
+
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW43cXNlZDQwN2JzeGx0cGk0YjYxNWdna3pyejJwcnoxemM5cHF5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Coding" align="right" width="280">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=handayogi&label=Profile%20views&color=0e75b6&style=flat" alt="handayogi" /> </p>
 
+<pre>
 - 🌱 I’m currently learning **All the things I like in Informatics**
 
 - 💬 Ask me about **Anything that I know, hehe..**
@@ -13,13 +15,16 @@
 
 - ⚡ Fun fact **I'm OPTIMUS PRIME, OUGHUGH AGHAGH**
 
+</pre>
+  
 ![Swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)&nbsp;
 ![Dev](http://ForTheBadge.com/images/badges/built-by-developers.svg)&nbsp;
 ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)&nbsp;
 
-#
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<img width="40%" height="10" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 📫 &nbsp;Connect with me
+<p>
   <a href="https://www.linkedin.com/in/handayogitambunan/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>&emsp;
@@ -74,6 +79,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com)&nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)&nbsp;
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)&nbsp;
+[![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://anaconda.org/anaconda/conda)&nbsp;
 [![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.google.com/chrome/)&nbsp;
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/)&nbsp;
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com)&nbsp;
