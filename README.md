@@ -58,6 +58,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge)](https://jupyter.org/)&nbsp;
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)&nbsp;
 [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge)](https://tryhackme.com/)&nbsp;
+[![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=for-the-badge)](https://www.anaconda.com/)&nbsp;
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/id_en/products/photoshop.html)&nbsp;
 [![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.adobe.com/id_en/products/premiere.html)&nbsp;
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)&nbsp;
@@ -113,8 +114,8 @@
 
 ### ⚙️ &nbsp;Github Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=handayogi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Handayogi's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=handayogi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="handayogi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=handayogi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Handayogi's GitHub Stats">&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=handayogi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="handayogi" />&nbsp;
 </p>
 
 <p align="center"><b>Sorry to you, I'm not good as your expectation. Hope I can grow with all these demands <3</b></p>
