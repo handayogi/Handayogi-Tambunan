@@ -102,13 +102,15 @@
 [![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://store.epicgames.com/en-US/)&nbsp;
 [![Battle.Net](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)](https://us.shop.battle.net/en-us)&nbsp;
 [![Valorant](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://www.riotgames.com/en)&nbsp;
-[![Counter Strike](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://www.counter-strike.net/)&nbsp;
+[![Counter Strike](https://img.shields.io/badge/Counter_Strike_2-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://www.counter-strike.net/)&nbsp;
 [![FIFA](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)](https://www.fifa.com/en)&nbsp;
 
 ### 💻 &nbsp;Workspace Specs
 
 [![CPU](https://img.shields.io/badge/Intel-Core_i5_7400-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/products/sku/97147/intel-core-i57400-processor-6m-cache-up-to-3-50-ghz/specifications.html)&nbsp;
 [![Graphics](https://img.shields.io/badge/NVIDIA-GTX950-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.techpowerup.com/gpu-specs/geforce-gtx-950.c2747)&nbsp;
+![Ram](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)&nbsp;
+![Storage](https://img.shields.io/badge/720GB%20SSD-grey?style=for-the-badge)&nbsp;
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
