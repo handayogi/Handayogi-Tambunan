@@ -116,6 +116,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=handayogi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Handayogi's GitHub Stats">&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=handayogi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="handayogi" />&nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=handayogi&layout=compact&theme=dracula&column=7&row=1&margin-w=15&margin-h=15" alt="handayogi" />
 </p>
 
 <p align="center"><b>Sorry to you, I'm not good as your expectation. Hope I can grow with all these demands <3</b></p>
